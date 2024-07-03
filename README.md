@@ -14,8 +14,8 @@ The main objective of this project is to create an interactive and user-friendly
 ### Requirements
 To run this project, you need the following Python libraries:
 
-pandas
-plotly
-streamlit
-matplotlib
+pandas,
+plotly,
+streamlit,
+matplotlib,
 geopandas

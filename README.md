@@ -1,4 +1,4 @@
-***Global Population Dashboard
+## Global Population Dashboard
 Introduction
 The Global Population Dashboard is a web application built using Python and Streamlit to visualize demographic trends worldwide. This project emphasizes population dynamics in Nigeria and West Africa, providing insights into their regional and global implications.
 
